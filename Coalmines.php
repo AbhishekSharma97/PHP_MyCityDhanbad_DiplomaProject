@@ -24,11 +24,11 @@ Dhanbad Template
 			</div>   
 			<div class="single-page-nav sticky-wrapper" id="tmNavbar">
 				<ul class="nav navbar-nav">
-					<li><a href="#section1">Homepage</a></li>
+					<li><a href="index.php#section1">Homepage</a></li>
 					<li><a href="#section2">About Us</a></li>
 					<li><a href="#section3">Services</a></li>
 					<li><a href="#section4">Contact</a></li>
-					<li><a href="https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=dhanbad%20map" class="External" target="_blank">External</a></li>
+					<li><a href="https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=dhanbad%20map" class="External" target="_blank">Map</a></li>
 				</ul>
 			</div>   
 		</div>
@@ -41,7 +41,7 @@ Dhanbad Template
 					<div class="col-sm-12 text-center">
 						<div class="header-content">
 							<h1>DHANBAD</h1>
-							<h4>A city of oppurtinity</h4>
+							<h4>A city of opportinity</h4>
 						</div>
 					</div>
 				</div>
@@ -51,41 +51,30 @@ Dhanbad Template
 	<div id="section2">
 		<!-- Start Feature Area -->
 		<section id="feature-area" class="about-section">
-			<div class="container">
-				<div class="row text-center inner">
-					<div class="col-sm-4">
-						<div class="feature-content">
-							<img src="img/dhnchanak.jpg" alt="Image">
-							<h2 class="feature-content-title green-text">History</h2>
-							<p class="feature-content-description">Dhanbad is a city in the Indian state of Jharkhand, India.It is the second most populated city in Jharkhand.Dhanbad along with its urban areas population ranks 42nd in population amongst other cities in India.
-Dhanbad is famous for its coal mining, has some of the largest mines and is called Coal Capital. Tata Steel, Bharat Coking Coal Limited (BCCL), Eastern Coalfields Limited (ECL) and Indian Iron And Steel Company (IISCO) are some of the companies who operate coal mines in the district.The Indian School of Mines (ISM) is located in it.
 
+					<div class="tm-box2">
+							<img src="img/Coal Mines.jpg" alt="Image" height =480 width=380>
+							<img src="img/coal4.jpeg" alt="Image" height =480 width=380>
+							<img src="img/col3.jpg" alt="Image" height =460 width=360>
+							<img src="img/col.png" alt="Image" height =300 width=210>
 
-The city has one parliamentary seat and six seats in the Legislative Assembly
-							</p>
-							<a href="indexhistory.php#section2" class="feature-content-link green-btn">History</a>
-						</div>
-					</div>
-					<div class="col-sm-4">
-						<div class="feature-content">
-							<img src="img/Dhn.jpg" alt="Image"> 
-							<h2 class="feature-content-title blue-text">Railways</h2>
-							<p class="feature-content-description">One of the largest and busiest railway junctions, it is arguably the most important station on the Grand Chord. In fact Dhanbad is the junction at which the Grand Chord really diverges from the CIC section. CIC rail line starts from Dhanbad and ends at Singrauli in Madhya Pradesh.
-Besides the CIC section there is a direct line to Ranchi which goes through Bokaro and Chandrapura.
-Another rail line passing through the district, starts at Kharagpur and ends at Gomoh,Dhanbad Rail Division is the second largest in terms of revenue generation after the Mumbai division.....</p>
-							<a href="railways.php#section2" class="feature-content-link blue-btn">See Details</a>
-						</div>
-					</div>
-					<div class="col-sm-4">
-						<div class="feature-content">
-							<img src="img/Coal Mines.jpg" alt="Image">
+								<div class="row text">
+								<div class="col-lg-12">
 							<h2 class="feature-content-title red-text">Coal Mines</h2>
-							<p class="feature-content-description"> Dhanbad is Famous for its coal Mines that's why it is known as a Coal Capital Of India.We have many Coal Mines which produces a quality of Coal Coal is also a lifeline of Dhanbad and as a development part of Jhanrkhand. Jharia is a notified area and one of eight development blocks in Dhanbad.It is the fifteenth-largest town in the state of Jharkhand.(More than one town in India shares this name.)Dhanbad is famous for its rich coal resources, used to make coke. Jharia plays a very important role in the economy and development of Dhanbad City, and can be considered as a part of Dhanbad City........			
-							</p>
-							<a href="Coalmines.php#section2" class="feature-content-link red-btn">Deatils</a>
+							<div class="tm-box-description">
+							<p class="feature-content-description"> Dhanbad is Famous for its coal Mines that's why it is known as a Coal Capital Of India.We have many Coal Mines which produces a quality of Coal Coal is also a lifeline of Dhanbad and as a development part of Jhanrkhand. Jharia is a notified area and one of eight development blocks in Dhanbad.It is the fifteenth-largest town in the state of Jharkhand.(More than one town in India shares this name.)Dhanbad is famous for its rich coal resources, used to make coke. Jharia plays a very important role in the economy and development of Dhanbad City, and can be considered as a part of Dhanbad City.<br>			
+							Dhanbad is a city in the Indian state of Jharkhand, India. It is the second most populated city in Jharkhand.Dhanbad along with its urban areas population ranks 42nd in population amongst other cities in India.
+Dhanbad is famous for its coal mining, has some of the largest mines in India and is called Coal Capital of India Tata Steel, Bharat Coking Coal Limited (BCCL), Eastern Coalfields Limited (ECL) and Indian Iron And Steel Company (IISCO) are some of the companies who operate coal mines in the district. The Indian School of Mines (ISM) is located in Dhanbad.
+Among the rail divisions of Indian Railway, Dhanbad Rail Division is the second largest in terms of revenue generation after the Mumbai division.
+The city has one parliamentary seat and six seats in the Legislative Assembly.<br>
+Jharia is a notified area and one of eight development blocksin Dhanbad district in Jharkhand state, India. Jharia is the fifteenth-largest town in the state of Jharkhand.(More than one town in India shares this name.) Jharia is famous for its rich coal resources, used to make coke. Jharia plays a very important role in the economy and development of Dhanbad City, and can be considered as a part of Dhanbad City.
+The coal field lies in the Damodar River Valley, and covers about 110 square miles (280 square km), and produces bituminous coal suitable for coke. Most of India's coal comes from Jharia. Jharia coal mines are India's most important storehouse of prime coke coal used in blast furnaces, it consists of 23 large underground and nine large open cast mines.
+The mining activities in these coalfields started in 1894 and had really intensified in 1925. The first Indians to arrive and break monopoly of British in Coal mining were Gujarati railway contractors from Kutch some of whom decided to plunge into the coal mining business and were thus the pioneers in starting coal mining in Jharia coalfields belt around 1890-95.In Jharia-Dhanbad belt Seth Khora Ramji Chawda was the first Indian to break monopoly of Europeans and founded Khas Jharia, Golden Jharia, Fatehpur, Balihari, Khas Jeenagora, East Bagatdih Collieries with their brothers Teja Ramji Chawda, Jetha Lira Jethwa, Akhoy Ramji Chawda, Pachan Ramji Chowra between 1894 and 1910. 
+In Pure Jharia Colliery Khora Ramji and brothers were partners with Diwan Bahadur D.D. Thacker.
+</p><br><br>
+			<a href="index.php#section2" class="feature-content-link red-btn">Back</a>
 						</div>
 					</div>
-				</div>
 			</div>
 		</section>
 		<!-- End Feature Area -->
@@ -128,7 +117,7 @@ Another rail line passing through the district, starts at Kharagpur and ends at 
 							<div class="col-sm-12 text-center inner our-service">
 								<div class="service">
 									<h1>Services in Dhanbad</h1>
-									<p>Dhanbad has a prospectious governmental services<br> As well as the matter of serviceing the nation Dhanbad plays an important roles to develop nation <br>
+									<p>Dhanbad has a prestige governmental services<br> As well as the matter of serviceing the nation Dhanbad plays an important roles to develop nation <br>
 									</p>
 									</div>
 								</div>
@@ -149,7 +138,7 @@ Another rail line passing through the district, starts at Kharagpur and ends at 
 										   In Dhanbad there is a Civil Court and Bar Association <br>
 										situated at the Court More Hirapur ahead Ambedkar Chauk near Dhanbad Station
 										<br><br>
-										<a href="http://img/Dhanbad - Google Maps.html" class="content-link">Find</a>
+										<a href="court.php#section3" class="content-link">Find</a>
 										<br><br>
 										<p id="redd"></p>
 										</p>
@@ -162,7 +151,7 @@ Another rail line passing through the district, starts at Kharagpur and ends at 
 										<h2>Police Station</h2>
 										<p>There are two police Station in Dhanbad cicle one is situated in Bank more and the other is in Dhansar .</p>
 										<br><br><br><br>
-										<a href="#" class="content-link">Finds</a>
+										<a href="police.php#section3" class="content-link">Finds</a>
 										<br>
 										<p id="redd2"></p>
 										</div>
@@ -174,7 +163,7 @@ Another rail line passing through the district, starts at Kharagpur and ends at 
 										<p>Dhanbad is a bussiness hub as a form in Bankmore a place where bussiness can evolutes. It becomes a developing area for bussiness and<br> also a hub for circulating small cities around Dhanbad.</p>
 										<br>
 										<br>
-										<a href="#" class="content-link">Find</a>
+										<a href="business.php#section3" class="content-link">Find</a>
 										<br>
 										<p id="redd3"></p>
 									</div>
@@ -183,9 +172,9 @@ Another rail line passing through the district, starts at Kharagpur and ends at 
 									<div class="testimonial-content">
 										<img src="img/com.jpg" alt="Image">
 										<h2>Administration</h2>
-										<p>Administrative services: P.N.Singh is the MLA of Dhanbad<br>
-										Chandra Shekhar Agarwal is the of Dhnabd associated with Niraj Singh Deputy Mayor. The executive DC in Dhanbad Is Kripa nand Jha and the Ambuj Nath is the Judge of Dhanbad Court </p>
-										<a href="#" class="content-link">read it</a>
+										<p>Administrative services: P.N.Singh is the MP of Dhanbad<br>
+										Raj Sinha is the MLA Chandra Shekhar Agarwal is the of Dhanabd associated with Eklavya Singh Deputy Mayor. The executive DC in Dhanbad Is Kripa nand Jha and the Ambuj Nath is the Judge of Dhanbad Court </p>
+										<a href="Adm.php#section3" class="content-link">read it</a>
 										<br>
 										<p id="redd4"></p>								
 										</div>
@@ -203,14 +192,11 @@ Another far-fetched theory is that the name of Dhanbad is derived from Dhan, a K
 the Urdu word “Abad” meaning occupied. Dhanbad may mean the place populated by “Dhan” a kolarian tribe or occupied by “Dhan” (paddy) in general.
 The district was first known as Dhanbaid. It is believed that Mr. Luby, Indian Civil Services officer (still popular in Dhanbad because of the Luby Circular Road), was officially permitted to drop the letter i from baid.
 </p>
-											<p class="tm-box-p">andhir Prasad Verma was an Indian police officer who died while trying to resist a robbery attempt in a bank in Dhanbad. He was posthumously awarded the gallantry award Ashoka Chakra. The Government of India also issued a Commemorative postage stamp in his honor in 2004.
-
+											<p class="tm-box-p">The First Labour Statue of Asia was built in Dhanbad<br>Randhir Prasad Verma was an Indian police officer who died while trying to resist a robbery attempt in a bank in Dhanbad. He was posthumously awarded the gallantry award Ashoka Chakra. The Government of India also issued a Commemorative postage stamp in his honor in 2004.
 He was born in 1952 in the village Jagatpur of Supaul district previously in Saharsa district of Bihar and studied at St. John's High School, Ranchi and Patna College. He joined the Indian Police Service in 1974. As a police officer he eliminated many criminal gangs.
-
 While serving in Dhanbad as the Superintendent of Police he died while resisting robbery at Bank of India branch on 3 January 1991.
-
 His widow Rita Verma later joined politics and was elected to Lok Sabha from BJP ticket. A Chowk "Randhir Verma Chowk" is a busy lane named after him in Dhanbad. His wife lives with two growing sons.In Muzaffarpur District there is a Cricket Club on the name Randhir Prasad Verma known as Randhir Verma Cricket Club (RVCC).</p>
-											<a href="#" class="content-link">Read More</a>    
+											    
 										</div>                        
 									</div>                    
 								</div>

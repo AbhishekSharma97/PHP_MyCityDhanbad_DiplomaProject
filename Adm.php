@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 	<title>Dhanbad</title>
@@ -28,7 +28,7 @@ Dhanbad Template
 					<li><a href="#section2">About Us</a></li>
 					<li><a href="#section3">Services</a></li>
 					<li><a href="#section4">Contact</a></li>
-					<li><a href="https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=dhanbad%20map" class="External" target="_blank">External</a></li>
+					<li><a href="https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=dhanbad%20map" class="External" target="_blank">Map</a></li>
 				</ul>
 			</div>   
 		</div>
@@ -41,7 +41,7 @@ Dhanbad Template
 					<div class="col-sm-12 text-center">
 						<div class="header-content">
 							<h1>DHANBAD</h1>
-							<h4>A city of oppurtinity</h4>
+							<h4>A city of Opportinity</h4>
 						</div>
 					</div>
 				</div>
@@ -59,8 +59,6 @@ Dhanbad Template
 							<h2 class="feature-content-title green-text">History</h2>
 							<p class="feature-content-description">Dhanbad is a city in the Indian state of Jharkhand, India.It is the second most populated city in Jharkhand.Dhanbad along with its urban areas population ranks 42nd in population amongst other cities in India.
 Dhanbad is famous for its coal mining, has some of the largest mines and is called Coal Capital. Tata Steel, Bharat Coking Coal Limited (BCCL), Eastern Coalfields Limited (ECL) and Indian Iron And Steel Company (IISCO) are some of the companies who operate coal mines in the district.The Indian School of Mines (ISM) is located in it.
-
-
 The city has one parliamentary seat and six seats in the Legislative Assembly
 							</p>
 							<a href="indexhistory.php#section2" class="feature-content-link green-btn">History</a>
@@ -128,7 +126,7 @@ Another rail line passing through the district, starts at Kharagpur and ends at 
 							<div class="col-sm-12 text-center inner our-service">
 								<div class="service">
 									<h1>Services in Dhanbad</h1>
-									<p>Dhanbad has a prospectious governmental services<br> As well as the matter of serviceing the nation Dhanbad plays an important roles to develop nation <br>
+									<p>Dhanbad has a prestige governmental services<br> As well as the matter of serviceing the nation Dhanbad plays an important roles to develop nation <br>
 									</p>
 									</div>
 								</div>
@@ -139,83 +137,46 @@ Another rail line passing through the district, starts at Kharagpur and ends at 
 
 					<!-- Start Testimornial Area -->
 					<section id="testimornial-area">
-						<div class="container">
-							<div class="row text-center">
-								<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 col-xxs-12">
-									<div class="testimonial-content">
-										<img src="img/court.jpg" alt="Image">
-										<h2>Court</h2>
-										<p>The Place Of Justic.<br>
-										   In Dhanbad there is a Civil Court and Bar Association <br>
-										situated at the Court More Hirapur ahead Ambedkar Chauk near Dhanbad Station
-										<br><br>
-										<a href="http://img/Dhanbad - Google Maps.html" class="content-link">Find</a>
-										<br><br>
+				
+								
+									<div class="tm-box2">
+										<img src="img/A1.jpg" alt="Image"height=300 width=400 >
+										<img src="img/A2.jpg" alt="Image" height=300 width=400 >
+										<img src="img/A3.jpg" alt="Image" height=400 width=500 >
+										<img src="img/A4.jpg" alt="Image" height=300 width=400 >
+										<img src="img/PN.jpg" alt="Image" height=300 width=300 >
+										<img src="img/Amap.png" height=300 width=600>
+										<div class="row text">
+										<div class="col-lg-12">
+										<h2>Administration</h2>
+										<div class="tm-box-description">
+										<p>Administrative services:</p>
+										 P.N.Singh is the MP of Dhanbad<br>
+										Raj Sinha is the MLA Chandra Shekhar Agarwal is the of Dhanabd associated with Eklavya Singh Deputy Mayor. The executive DC in Dhanbad Is Kripa nand Jha and the Ambuj Nath is the Judge of Dhanbad Court </p>
+										Combined building,Exchange Office,DC office, MADA office
+										are importand places in Dhnabad<br>
+										Deputy Commisnor<br>
+										Sri Sunil Kumar
+										29.06.2012-
+										26.08.2012<br>
+
+										Sri Prashant Kumar
+										26.08.2012-
+										16.02.2015<br>
+										Sri Kripa Nand Jha
+										16.02.2015<br><br>
+
+									<a href="index.php#section3" class="content-link">Back</a>
+																				
+										
+										
 										<p id="redd"></p>
 										</p>
 										<br>
-									</div>
-								</div>
-								<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 col-xxs-12">
-									<div class="testimonial-content">
-										<img src="img/police.jpg" alt="Image">
-										<h2>Police Station</h2>
-										<p>There are two police Station in Dhanbad cicle one is situated in Bank more and the other is in Dhansar .</p>
-										<br><br><br><br>
-										<a href="#" class="content-link">Finds</a>
-										<br>
-										<p id="redd2"></p>
+										</div>
 										</div>
 								</div>
-								<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 col-xxs-12">
-									<div class="testimonial-content">
-										<img src="img/Bankmore.jpg" alt="Image">
-										<h2>Bussiness Hub</h2>
-										<p>Dhanbad is a bussiness hub as a form in Bankmore a place where bussiness can evolutes. It becomes a developing area for bussiness and<br> also a hub for circulating small cities around Dhanbad.</p>
-										<br>
-										<br>
-										<a href="#" class="content-link">Find</a>
-										<br>
-										<p id="redd3"></p>
-									</div>
-								</div>
-								<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 col-xxs-12">
-									<div class="testimonial-content">
-										<img src="img/com.jpg" alt="Image">
-										<h2>Administration</h2>
-										<p>Administrative services: P.N.Singh is the MLA of Dhanbad<br>
-										Chandra Shekhar Agarwal is the of Dhnabd associated with Niraj Singh Deputy Mayor. The executive DC in Dhanbad Is Kripa nand Jha and the Ambuj Nath is the Judge of Dhanbad Court </p>
-										<a href="#" class="content-link">read it</a>
-										<br>
-										<p id="redd4"></p>								
-										</div>
-								</div>
-							</div>
-							<div class="row">
-								<div class="col-lg-12">
-									<div class="tm-box">
-										<img src="img/Coal1.jpg" alt="Image" class="img-responsive" style="width:1140px;height:434px;>
-										<div class="tm-box-description">
-											<h2>Fact about Dhanbad</h2>
-											<p class="tm-box-p">Dhanbad, Bihar, December 28, 1963
-There is no authentic record to show how Dhanbad took its name. One of the popular theories is that, this area was famous for the growth of “Baid Dhan “ or Baid paddy . There are three kinds of paddy in the district - Baid, Kanali and Bahiyar.
-Another far-fetched theory is that the name of Dhanbad is derived from Dhan, a Kolarian tribe that lived in this area. “Baid” has perhaps been taken from
-the Urdu word “Abad” meaning occupied. Dhanbad may mean the place populated by “Dhan” a kolarian tribe or occupied by “Dhan” (paddy) in general.
-The district was first known as Dhanbaid. It is believed that Mr. Luby, Indian Civil Services officer (still popular in Dhanbad because of the Luby Circular Road), was officially permitted to drop the letter i from baid.
-</p>
-											<p class="tm-box-p">andhir Prasad Verma was an Indian police officer who died while trying to resist a robbery attempt in a bank in Dhanbad. He was posthumously awarded the gallantry award Ashoka Chakra. The Government of India also issued a Commemorative postage stamp in his honor in 2004.
-
-He was born in 1952 in the village Jagatpur of Supaul district previously in Saharsa district of Bihar and studied at St. John's High School, Ranchi and Patna College. He joined the Indian Police Service in 1974. As a police officer he eliminated many criminal gangs.
-
-While serving in Dhanbad as the Superintendent of Police he died while resisting robbery at Bank of India branch on 3 January 1991.
-
-His widow Rita Verma later joined politics and was elected to Lok Sabha from BJP ticket. A Chowk "Randhir Verma Chowk" is a busy lane named after him in Dhanbad. His wife lives with two growing sons.In Muzaffarpur District there is a Cricket Club on the name Randhir Prasad Verma known as Randhir Verma Cricket Club (RVCC).</p>
-											<a href="#" class="content-link">Read More</a>    
-										</div>                        
-									</div>                    
-								</div>
-							</div>
-						</div>
+								
 					</section>
 					<!-- End Testimornial Area -->
 				</div>
@@ -230,7 +191,7 @@ His widow Rita Verma later joined politics and was elected to Lok Sabha from BJP
 										<div class="row">                            
 											<div class="col-sm-12">
 												<p>This webpage is design in behalf of college project by the computer science students of sixth semester. <br>
-													We are related to Grouup 1<br>
+													We are related to Group 1<br>
 													We are greatful for your feedback. Thank you</p>
 												</div>                            
 											</div>
@@ -240,18 +201,19 @@ His widow Rita Verma later joined politics and was elected to Lok Sabha from BJP
 								</div>
 								<div class="row">
 									<div class="col-lg-12">
-										<form action="contact.php#section4" method="post" class="contact-form">
+										<form action="contact.php#section4" method="get" class="contact-form">
 											<div class="col-sm-6 contact-form-left">
 												<div class="form-group">
-													<input name="name" type="text" class="form-control" id="name" placeholder="Name">
-												  	<input type="email" name="email" class="form-control" id="mail" placeholder="Email">
-													<input name="subject" type="text" class="form-control" id="subject" placeholder="Subject">
+													<input name="name" type="text" class="form-control" id="name" name="name" placeholder="Name">
+												  	<input type="email" name="email" class="form-control" id="mail"  name="mail" placeholder="Email">
+													<input name="subject" type="text" class="form-control" id="subject" name="subject" placeholder="Subject">
 												</div>
 											</div>
 											<div class="col-sm-6 contact-form-right">
 												<div class="form-group">
 													<textarea name="message" rows="6" class="form-control" id="comment" placeholder="Your message here..."></textarea>
-													<button type="submit" class="btn btn-default">Send</button>
+													<button type="submit" value="submit" class="btn btn-default">Send</button>
+									
 												</div>
 											</div>                        
 										</form>    
@@ -299,11 +261,11 @@ His widow Rita Verma later joined politics and was elected to Lok Sabha from BJP
         });
         $('.services-section').parallax({
         	imageSrc: 'img/old1.jpg',
-        	speed: 0.2
+        	speed: 0.1
     	});
         $('.contact-section').parallax({
         	imageSrc: 'img/colg.jpg',
-        	speed: 0.2
+        	speed: 0.1
         });    
 
         // jQuery Scroll Up / Back To Top Image
@@ -315,7 +277,7 @@ His widow Rita Verma later joined politics and was elected to Lok Sabha from BJP
 		        easingType: 'linear',        // Scroll to top easing (see http://easings.net/)
 		        animation: 'fade',           // Fade, slide, none
 		        animationSpeed: 300,         // Animation speed (ms)		        
-		        scrollText: '', // Text for element, can contain HTML		        
+		        scrollText: '', 	// Text for element, can contain HTML		        
 		        scrollImg: true            // Set true to use image		        
             });
 
@@ -327,7 +289,7 @@ His widow Rita Verma later joined politics and was elected to Lok Sabha from BJP
             if ( $( document ).height() - $( window ).height() === $( window ).scrollTop() ) {
 
                 // Adjust the scrollUp image so that it's a few pixels above the footer
-                $('#scrollUp').css( 'bottom', '80px' );
+                $('#scrollUp').css( 'bottom', '70px' );
 
             } else {      
                 // Otherwise, leave set it to its default value.

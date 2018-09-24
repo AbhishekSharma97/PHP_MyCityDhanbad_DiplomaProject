@@ -1,8 +1,5 @@
 /*
 
-Conquer Template
-
-http://www.templatemo.com/tm-476-conquer
 
 
 iframe {
@@ -122,6 +119,7 @@ z-index: 999;
     background: #F2F2F2;
     padding-bottom: 40px;
 }
+
 .feature-content-title {
     padding: 0 20px;
     text-align: left;    
@@ -132,6 +130,7 @@ z-index: 999;
     color: #333333;
     margin-top: 15px;
 }
+
 .feature-content-link {
     border-radius: 5px;
     color: #fff;
@@ -355,6 +354,18 @@ input {
   max-width: 1140px;
   width: 100%;
 }
+
+.tm-box2 {
+  background-color: #F2F2F2;
+  max-width: 2140px;
+height: 100%;
+  width: 100%;
+	margin-top: 20px;
+}
+
+
+
+
 .tm-box-description {
   padding: 30px;
 }
